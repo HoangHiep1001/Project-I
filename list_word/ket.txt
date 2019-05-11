@@ -1,0 +1,11 @@
+10
+printf
+do
+while
+break
+else
+for
+continue
+cout
+cin
+get

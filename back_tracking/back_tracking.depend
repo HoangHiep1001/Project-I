@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1542103957 source:d:\codeblocks\back_tracking\main.cpp
+	"queen.h"
+	"travel.h"
+
+1542056236 d:\codeblocks\back_tracking\queen.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1542101158 source:d:\codeblocks\back_tracking\queen.cpp
+	"queen.h"
+
+1542105243 source:d:\codeblocks\back_tracking\travel.cpp
+	"travel.h"
+
+1539509192 d:\codeblocks\back_tracking\travel.h
+	<iostream>
+	<fstream>
+
+1542103957 source:e:\codeblocks\back_tracking\main.cpp
+	"queen.h"
+	"travel.h"
+
+1542056236 e:\codeblocks\back_tracking\queen.h
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1539509192 e:\codeblocks\back_tracking\travel.h
+	<iostream>
+	<fstream>
+
+1542101158 source:e:\codeblocks\back_tracking\queen.cpp
+	"queen.h"
+
+1542105243 source:e:\codeblocks\back_tracking\travel.cpp
+	"travel.h"
+

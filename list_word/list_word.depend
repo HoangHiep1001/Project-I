@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1542107701 source:d:\codeblocks\list_word\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1556813412 source:e:\codeblocks\list_word\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
